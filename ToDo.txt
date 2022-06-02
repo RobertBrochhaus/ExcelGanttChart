@@ -1,3 +1,0 @@
-Create Macro for automated time axis alignment of each layer
-Exclude public holidays with option to consider individual local countries
-Change Target vs Current Chart to Ressource Chart
